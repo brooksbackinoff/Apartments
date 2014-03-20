@@ -12,6 +12,7 @@ header.page {
 }
 header.page h1:hover {
     color:#444444;
+    background: #224466;
 }
 article, aside {
     float:left;
