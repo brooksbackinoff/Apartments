@@ -1,9 +1,9 @@
 #wrapper {
     width:960px;
     margin: 0 auto 0 auto;
-   /* background:269926;
+   /* background:269926;*/
     border: 1px solid #777;
-*/   
+  
 }
 #1939 { }
 header.page {
@@ -15,6 +15,8 @@ header.page {
 }
 body {
 	background-color: #229622;
+	width:960px;
+	border: 1px solid #777;
 }
 /*header.page h1:hover {
     color:#444444;
@@ -29,6 +31,7 @@ nav li {
     padding:0;
     margin:0;
     padding-right:20px;
+    text-align:center;
 }
 a:link {
     color:#669173;
