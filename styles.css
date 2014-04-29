@@ -16,6 +16,7 @@ header.page {
 body {
 	background-color: #229622;
 	width:960px;
+	margin: 0 auto 0 auto;
 	border: 1px solid #777;
 }
 /*header.page h1:hover {
