@@ -13,6 +13,9 @@ header.page {
     text-align:center;
     background: #008500;
 }
+body {
+	background: #229622;
+}
 /*header.page h1:hover {
     color:#444444;
     background: #229622;
