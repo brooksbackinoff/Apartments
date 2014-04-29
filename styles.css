@@ -10,15 +10,15 @@ header.page {
     padding: 10px;
     border:1px solid #000;
     text-align:center;
-    background: #224466;
+    background: #00CC00;
 }
 header.page h1:hover {
     color:#444444;
-    background: #224466;
+    background: #008500;
 }
 article, aside {
     float:left;
-    background: #eeeeee;
+    background: #00cc00;
 }
 nav li {
     display:inline;
