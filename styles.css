@@ -1,8 +1,9 @@
 #wrapper {
     width:960px;
     margin: 0 auto 0 auto;
-    border: 1px solid #777;
-   
+    background:269926;
+   /* border: 1px solid #777;
+*/   
 }
 #1939 { }
 header.page {
@@ -29,9 +30,6 @@ nav li {
 a:link {
     color:#669173;
 }
-a:hover {
-    color:#1b1bb3;
-}
 a:visited {
     color:#110128;
     text-decoration:none;
@@ -39,7 +37,9 @@ a:visited {
 a:active {
     color:#669173;
 }
-
+a:hover {
+    color:#1b1bb3;
+}
 article {
     width:610px;
     margin:10px;
