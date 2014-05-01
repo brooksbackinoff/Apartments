@@ -36,16 +36,20 @@ nav li {
 }
 a:link {
     color:#669173;
+    text-align:center;
 }
 a:visited {
     color:#110128;
     text-decoration:none;
+    text-align:center;
 }
 a:active {
     color:#666666;
+    text-align:center;
 }
 a:hover {
     color:#1b1bb3;
+    text-align:center;
 }
 article {
     width:610px;
